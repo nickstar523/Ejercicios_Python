@@ -1,0 +1,17 @@
+# definir las operaciones
+# realiza las operaciones
+a=int(input("Digite un valor:"))
+b=int(input("Digite otro valor:"))
+suma= a + b
+resta= a - b
+multiplicacion= a * b
+division_cociente= a / b
+division_residuo= a % b
+print("suma:", suma, "resta:", resta, "multiplicacion:", multiplicacion, "division:", division_cociente, "divisionR:", division_residuo)
+
+print(f"suma,{suma},resta,{resta},multiplicacion,{multiplicacion}, division cociente,{division_cociente} divisionR, {division_residuo}")
+
+
+"""
+Ejercicio pidiendo valores
+"""
